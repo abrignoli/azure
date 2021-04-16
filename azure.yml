@@ -1,1 +1,1 @@
-teste : $(DATADOG_API_KEY)
+$(DATADOG_API_KEY)
