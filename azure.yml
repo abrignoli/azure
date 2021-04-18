@@ -1,5 +1,5 @@
 {
-  "DATADOG_API_KEY" : "teste_replace"
+  "DATADOG_API_KEY" : "teste_replace",
   "ENV" : {
     "DATADOG_API_KEY" : "teste_replace_2"  
   }
